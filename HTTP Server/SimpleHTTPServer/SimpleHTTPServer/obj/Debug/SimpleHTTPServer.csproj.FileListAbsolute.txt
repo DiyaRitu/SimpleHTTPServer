@@ -1,0 +1,10 @@
+E:\HTTP Server\SimpleHTTPServer\SimpleHTTPServer\bin\Debug\SimpleHTTPServer.exe.config
+E:\HTTP Server\SimpleHTTPServer\SimpleHTTPServer\bin\Debug\SimpleHTTPServer.exe
+E:\HTTP Server\SimpleHTTPServer\SimpleHTTPServer\bin\Debug\SimpleHTTPServer.pdb
+E:\HTTP Server\SimpleHTTPServer\SimpleHTTPServer\obj\Debug\SimpleHTTPServer.csproj.AssemblyReference.cache
+E:\HTTP Server\SimpleHTTPServer\SimpleHTTPServer\obj\Debug\SimpleHTTPServer.Form1.resources
+E:\HTTP Server\SimpleHTTPServer\SimpleHTTPServer\obj\Debug\SimpleHTTPServer.Properties.Resources.resources
+E:\HTTP Server\SimpleHTTPServer\SimpleHTTPServer\obj\Debug\SimpleHTTPServer.csproj.GenerateResource.cache
+E:\HTTP Server\SimpleHTTPServer\SimpleHTTPServer\obj\Debug\SimpleHTTPServer.csproj.CoreCompileInputs.cache
+E:\HTTP Server\SimpleHTTPServer\SimpleHTTPServer\obj\Debug\SimpleHTTPServer.exe
+E:\HTTP Server\SimpleHTTPServer\SimpleHTTPServer\obj\Debug\SimpleHTTPServer.pdb
